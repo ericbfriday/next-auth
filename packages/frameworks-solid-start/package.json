@@ -37,11 +37,11 @@
   "devDependencies": {
     "@solidjs/meta": "^0.28.0",
     "@types/node": "^18.7.14",
-    "solid-js": "^1.5.7",
+    "solid-js": "^1.9.4",
     "solid-start": "^0.2.14"
   },
   "peerDependencies": {
-    "solid-js": "^1.5.7",
+    "solid-js": "^1.9.4",
     "solid-start": "^0.2.14"
   },
   "keywords": [
