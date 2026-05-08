@@ -14,9 +14,9 @@
   "dependencies": {
     "@auth/prisma-adapter": "workspace:*",
     "@prisma/client": "^5",
-    "next": "14.2.3",
+    "next": "15.5.15",
     "next-auth": "workspace:*",
-    "nodemailer": "^6.9.3",
+    "nodemailer": "^8.0.5",
     "react": "^18",
     "react-dom": "^18"
   },
