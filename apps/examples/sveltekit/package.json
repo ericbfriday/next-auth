@@ -20,7 +20,7 @@
     "svelte": "^5.55.7",
     "svelte-check": "^4.0.4",
     "typescript": "5.4.5",
-    "vite": "^6.4.2"
+    "vite": "^6.4.3"
   },
   "dependencies": {
     "@auth/sveltekit": "latest"
